@@ -1,0 +1,7 @@
+{
+  "name": "app_books_application",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
